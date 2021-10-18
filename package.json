@@ -1,0 +1,25 @@
+{
+  "name": "node-game-enginer",
+  "version": "1.0.0",
+  "description": "Web development Game Engine Project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kekons4/node-game-enginer.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kekons4/node-game-enginer/issues"
+  },
+  "homepage": "https://github.com/kekons4/node-game-enginer#readme",
+  "dependencies": {
+    "canvas": "^2.8.0",
+    "express": "^4.17.1"
+  }
+}
