@@ -2,12 +2,12 @@
 
 Simple Pong game capable with two players.
 
-##Instructions
+## Instructions
 
 To control the Left Paddle use W and S keys.
 To control the Right Paddle use the Up Arrow and Down Arrow keys.
 
-##Installation
+## Installation
 
 -Download the project at https://github.com/kekons4/Pong.git
 -Have the latest version of nodejs installed.
